@@ -1,3 +1,7 @@
+# mMcFab's Custom Fork of Marlin
+
+The purpose of this fork is to allow me to make some custom features that don't really want to be in the main Marlin repo. Also allows me to set up some custom profiles for my personal Arduino Due based project, with custom interface board. 
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
